@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Adamant",
+	"description": "An powerful metal that vibrates with power.",
+	"cost": 2.5,
+	"color": "eb2310"
+}
