@@ -1,1 +1,14 @@
-
+{
+	"type": "Conveyor",
+	"name": "Adamant conveyor",
+	"description": "A very fast conveyor.",
+	"requirements": [
+		{"item": "titanium", "amount": 1},
+		{"item": "copper", "amount": 1},
+		{"item": "lead", "amount": 1},
+		{"item": "adamant", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.18,
+	"research": "titanium-conveyor"
+}
