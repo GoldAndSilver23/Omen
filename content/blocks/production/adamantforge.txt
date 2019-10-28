@@ -3,7 +3,7 @@
 	"name": "Adamant Forge",
 	"description": "Combines Surge Alloy and Blast Compound to produce Adamant.",
 	"liquidCapacity": 0,
-	"outputItem": {"item": "adamant", "amount": 1},
+	"outputItem": {"item": "adamant", "amount": 2},
 	"size": 3,
 	"hasPower": true,
 	"hasLiquids": false,
