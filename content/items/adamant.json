@@ -2,6 +2,7 @@
 	"type": "material",
 	"name": "Adamant",
 	"description": "A powerful metal that vibrates with power.",
+	"hardness": 4,
 	"cost": 2.5,
-	"color": "eb2310"
+	"color": "ffffff"
 }
